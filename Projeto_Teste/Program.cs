@@ -12,6 +12,10 @@ namespace Projeto_Teste
 
             Console.WriteLine("a");
             Console.WriteLine("a");
+            Console.WriteLine("a");
+            Console.WriteLine("a");
+
+            Console.WriteLine("a");
         }
     }
 }
